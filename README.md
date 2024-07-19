@@ -1,4 +1,4 @@
-# Snake_Game
+# Snake Game
 Snake Game in C
 Below given some functionalities of this game:
 
